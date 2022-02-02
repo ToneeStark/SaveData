@@ -8,4 +8,8 @@ public class GitHub {
 	private void tc3() {
 		System.out.println("test");
 	}
+
+	private void tc5() {
+		System.out.println("test");
+	}
 }
